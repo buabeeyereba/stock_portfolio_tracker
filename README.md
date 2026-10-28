@@ -35,6 +35,7 @@ python portfolio.py
 
 ## Usage Example 💡
 
+```text
 ==================================================
     Welcome to Buabee's Stock Portfolio Tracker    
 ==================================================
@@ -49,3 +50,4 @@ do you want to try again?  no
 
 Grand Total Portfolio Value: 860
 Portfolio Saved to portfolio.txt file!
+```
